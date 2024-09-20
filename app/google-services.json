@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "514067643800",
+    "project_id": "roomatesch",
+    "storage_bucket": "roomatesch.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:514067643800:android:85d04c4f60e17cd7907fed",
+        "android_client_info": {
+          "package_name": "com.example.roommatechores"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUnHaS64CUVVj8UE6qvpx2ZEpmB5GKLrk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
