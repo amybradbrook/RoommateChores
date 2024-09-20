@@ -3,6 +3,12 @@
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
     <string name="app_name">RoommateChores</string>
+    <string name="gcm_defaultSenderId" translatable="false">514067643800</string>
+    <string name="google_api_key" translatable="false">AIzaSyCUnHaS64CUVVj8UE6qvpx2ZEpmB5GKLrk</string>
+    <string name="google_app_id" translatable="false">1:514067643800:android:85d04c4f60e17cd7907fed</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCUnHaS64CUVVj8UE6qvpx2ZEpmB5GKLrk</string>
+    <string name="google_storage_bucket" translatable="false">roomatesch.appspot.com</string>
+    <string name="project_id" translatable="false">roomatesch</string>
     <style name="Base.Theme.RoommateChores" parent="Theme.Material3.DayNight.NoActionBar">
         
         
